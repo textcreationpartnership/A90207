@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An admonition to the English concerning their near approaching danger, and the means to escape it. By A gentleman of quality of Languedoc. ; To which is added, Archbishop Usher's prophecy concerning the same matter attested by the Lord Chief Justice Hale, and another person of honour, with some observations concerning it.</title>
+            <title>Avis pour les fidelles d'Angleterre. English</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90207</idno>
+            <idno type="STC">Wing O526A</idno>
+            <idno type="STC">ESTC R181058</idno>
+            <idno type="EEBO-CITATION">45504496</idno>
+            <idno type="OCLC">ocm 45504496</idno>
+            <idno type="VID">171812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90207)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171812)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2593:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An admonition to the English concerning their near approaching danger, and the means to escape it. By A gentleman of quality of Languedoc. ; To which is added, Archbishop Usher's prophecy concerning the same matter attested by the Lord Chief Justice Hale, and another person of honour, with some observations concerning it.</title>
+                  <title>Avis pour les fidelles d'Angleterre. English</title>
+                  <author>Ussher, James, 1581-1656.</author>
+                  <author>Osborne, John.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Harris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>The 'admonition' in French and English, printed in double columns: p. 2-3.</note>
+                  <note>Attributed to John Osborne by Wing.</note>
+                  <note>"Licens'd Feb. 25. 1690."</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissent, Religious --  Early works to 1800.</term>
+               <term>Protestants --  England.</term>
+               <term>Protestants --  France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171812:1" rendition="simple:additions"/>
+            <head>AN <hi>Admonition to the Engliſh,</hi> CONCERNING Their Near Approaching Danger, and the Means to Eſcape it.</head>
+            <head type="sub">BY A Gentleman of Quality of <hi>LANGUEDOC.</hi> To which is added, Archbiſhop <hi>
+                  <g ref="char:V">Ʋ</g>ſher</hi>'s Prophecy concerning the ſame Matter, atteſted by the Lord Chief Juſtice <hi>Hale,</hi> and another Perſon of Honour, with ſome Obſervations concerning it.</head>
+            <p>
+               <hi>Tranſlated from the</hi> French <hi>Copy.</hi>
+            </p>
+            <p>
+               <hi>Licens'd</hi> Feb. 25. 1690.</p>
+            <p>THe Original <hi>French</hi> of the following Admonition I received lately in <hi>Holland</hi> of the <hi>Author,</hi> whoſe Name is thereunto ſubſcribed; a Gentleman of an Ancient Family in <hi>Languedoc,</hi> whoſe Seat is an ancient Caſtle of the ſame Name with himſelf, about three Engliſh Miles from <hi>Montpeilier,</hi> with a conſiderable Revenue thereunto belonging. But he was forced to leave it, and all <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat he had, after two years Impriſonment, for his Religion. And this is his Condition at preſent. The <hi>Author of thoſe Admonitions,</hi> which he mentions, was his Younger Brother, who died near three years ſince, of about Forty eight years of Age, a Perſon, as he ſaith, of great Piety and Credit, and of extraordinary Knowledge of things abſent and future. And of him our Author received both Admonitions before <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the things here ſaid to have happened to him, and an Explication afterward of the Myſteries of them, and the Signification thereof. He is not without Witneſſes of the truth of what he relates; but they are diſperſed into ſeveral Parts, and ſome of them now in <hi>England.</hi>
+            </p>
+            <p>It was the Author's Deſire to have it communicated to the <hi>Engliſh</hi> as ſoon as might be, and my Good-will to my Country, and deſire to ſerve them, inclined me to lend him my Aſſiſtance therein without much difficulty, both becauſe it doth agree ſo much with the known Predictions of Biſhop <hi>Uſher,</hi> and becauſe the State and Courſe of Affairs ſeem to agree but too much with both, in a manifeſt tendency to the Accompliſhment of them. And that the Reader may not be ſo much di<g ref="char:EOLhyphen"/>ſturbed, as admoniſhed by it, for his better Direction and Inſtruction how to uſe it, I thought fit to ſubjoyn the principal part of the Biſhop's Predictions: Which I can aſſure the Reader to be no Impoſture, but True and Genuine, from the Teſtimony of two Witneſſes beyond all Exception: The one, the late Lord Chief Juſtice <hi>Hale,</hi> who, when I ſhewed it him in Writing before ever it was Printed, and deſired his Judgment of it, told me he had heard him ſay the Subſtance of it, the Subſtance of it (repeating thoſe words) twenty times with a great deal of confidence: The other, a Perſon whom I ought not to name without Licenſe, but of great Honour by Degree, and much greater by real Worth and Vertue, to whom the words were ſpoken by the Biſhop, and who committed them to Writing, and was pleaſed to favour me with the peruſal of the Original.</p>
+            <div xml:lang="fre" type="letter">
+               <pb n="2" facs="tcp:171812:2"/>
+               <head>Avis pour les Fidelles d'Angleterre.</head>
+               <p>IL faut être dans un grand aveuglement pour ne s'être pas apperceu, que la colere de Dieu paroit alummée depuis long temps preſque ſur toutes les parties de l'Europe, de ſorte qu'il ſemble que Dieu vueille comme par un nouveau deluge exterminer toute chair; puiſqu'il n'eſt que trop vray qu'elle s'eſt portée á toute ſorte d'exceſs. L'indignation du Tout-puiſſant a commencé á le reſpandre en particulier preſque ſur tous ceux, qui portent le nom des Proteſtans. Ces raiſons devoient nous porter a nous amen<g ref="char:EOLhyphen"/>der &amp; nous corriger de nos vices; Mais le Ciel &amp; la terre ſont Temoins que nous n'avons ſçeu qu c'eſtoit d'affliger nos Ames &amp; amender le train de nôtre vie; C'eſt auſſi pour cela que les jugemens de Dieu (dont nous n'avons tenu Con<g ref="char:EOLhyphen"/>te, Lorſque leur decret a tant &amp; tant de fois ſi epouvantablement enfanté) ſe ſont tous jours r'enforcées. L'Experience nous la fait voir en France, n'ayant pas profité des avis qui nous avoyent ête donnes.</p>
+               <p>Il y a plus de vingt ans que je receus une let<g ref="char:EOLhyphen"/>tre, qui m'apprennoit nos malheurs &amp; me mar<g ref="char:EOLhyphen"/>quoit le moien de les prevenir, qui êtoit d'aſ<g ref="char:EOLhyphen"/>ſembler les Intendants Paſteurs &amp; Anciens de I'Egliſe &amp; leur dire de faire faire, une Jeune de trois jours á la premiere Egliſe qui ſeroit atta<g ref="char:EOLhyphen"/>quée &amp; qu'on en verroit les effets. Je negligai cet avis, non ſçachant d'ou il venoit. Mais en<g ref="char:EOLhyphen"/>viron dix ans apres l'ayant ſçeu, &amp; v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>river bien de choſes qui m'avo<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> marquées, j'en parlay á ces M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſeurs, qui <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>yent pas: Ce qui<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s a fait <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acheuſe ſuittes. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> en Angl<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erre pluſieur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtres qui eſtoi<g ref="char:EOLhyphen"/>ent preſens Lorſque je <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ur vis voir la lettre, qui m'avoit êté envoyée.</p>
+               <p>Madam de Turene, Monſieur de Rouvigny, &amp; Monſieur Gaches Miniſtre de l'Egliſe de Cha<g ref="char:EOLhyphen"/>ronton curent les mêmes avis que moy, le Sy<g ref="char:EOLhyphen"/>node en eut en ſuite &amp; l'auteur voyant qu'on n'en profitoit pas m'ecrivoit en ces Termes.</p>
+               <p>
+                  <hi>Un Vaiſſeau agitè d'une rude Tempete eſt en piteux êtat. Lorſqu'nn Enfant, n'avant su eveiller les Ma<g ref="char:EOLhyphen"/>telots pout ſortir les eaux qu'il y voioit entrer, eſt
+<pb n="3" facs="tcp:171812:2"/>en-fin obligé de crier; ſauve qui peut. Malheur á qui n'aime le Seigneur Jeſus &amp; ne porte tous les jours ce Divin Crucifié dans ſon Ceur.</hi>
+               </p>
+               <p>Il y a environ huiet a neuf ans que je receus un coup de Foudre de jour; j'avois été averti de ce coup trois ans avant qu'il tomba ſur moy &amp; par trois diverſes fois: Ce coup fut ſuivi environ ſix ſemaines apres d'un coup de Tonnerre, qui tomba de nuit (dont même etoit averti.) Je fus obligé de faire eveiller tous ceux, qui eſtoyent chez moy au lict: Nous fuſmes au lieu ou je faiſois precher; je faiſois lire la parole de Dieu, lorſque le Tonnere tomba ſous mes pieds: Le lieu ou nous eſtions eſtoit pavé &amp; les rochers au deſſous: Ou entendoit gronder le Tonner ſous moy qui eſtois elo<g ref="char:EOLhyphen"/>igné d'eux neanmoins, dans le même endroit, auſſi fort qui'l a accoutumé de faire; Il y fut aſſez de tems; Nous ne diſcontinuaſmes pas pourtant la lecture de l'Ecriture ſainte. Ces furent des coups terribles &amp; myſterieux preſages &amp; avantcourreurs des maux pres á fondre ſur la France &amp; ſur l'Angleterre: Il y a en Angleterre pluſieurs Perſonnes qui eſtoyent chez moy lorſque ces choſes ſe paſſerent: Ils en ignoroyent le Myſtere, mais je puis bien prou<g ref="char:EOLhyphen"/>ver ce que j'avance.</p>
+               <p>Etant en Etat de quitter la Province ou je faiſois mon ſejour, il y a environ cinq á ſix ans, l'auteur des avis, qui a rêcu d'une vie ſi chre<g ref="char:EOLhyphen"/>tienne qu'on ne luy ſçauroit rien imputer &amp; á qui Dieu a fait de Graces ſi extraordinaires que je ne penſe pas que depuis pluſieurs ſiecles on ait oui parler de ſemblables, me donn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> un depôt cachete, &amp; me dit le tems que je devois l'ouvir; Il avoit au commencement de cet êcrit.</p>
+               <p>
+                  <hi>O Roy un plus grand Roy que Toy te commande ſonge aut conte que tu dois rendre plutôt que tu ne penſes: Et a fin, O Angleterre ſi tu te rends com<g ref="char:EOLhyphen"/>plice du crime Tu auras part á la peine.</hi>
+               </p>
+               <p>L'orage eſt furieux rempli d'horreur &amp; de carnage, Tachez á le prevenir á fin que votre Contree ſoit une Contree de paix, une Iſle for<g ref="char:EOLhyphen"/>tunée, &amp; un jardin d Eden: C'eſt le ſouhait de</p>
+               <closer>
+                  <signed>
+                     <hi>Votre tres obeiſſant Serviteur,</hi> Saint Jean.</signed>
+               </closer>
+               <postscript>
+                  <p>Guettes Iſrael c'eſt ici le tems de veiller &amp; de prier, C'eſt le tems de cries á plein goſier &amp; de ne ſe point epargner, ſonnez du Cornet en Sion, Reveillez les Peuples endormis, Inſiſtez en tems &amp; hors tems, &amp; Ditez hardiment á Jeruſalem, qu'elle fe repente á fin qu'il y ait Paix pour elle &amp; non une ſouddain deſtruction: Car le Ton<g ref="char:EOLhyphen"/>nere a grondé.</p>
+               </postscript>
+            </div>
+            <div type="letter_translated">
+               <pb n="2" facs="tcp:171812:2"/>
+               <head>An ADMONITION to the Chriſtians of <hi>England.</hi>
+               </head>
+               <p>HE muſt be very blind, who perceives not that the Wrath of GOD hath long ſince been kindled againſt all parts almoſt of <hi>Europe;</hi> ſo that he ſeems reſolved to deſtroy all Fleſh <hi>again</hi> as it were with a New Deluge, ſince it is but too true, that they have abandon'd themſelves to all kind of Wickedneſs. <hi>But</hi> the Indignation of the Almighty hath begun to manifeſt it ſelf <hi>more</hi> eſpecially againſt thoſe who are called Pro<g ref="char:EOLhyphen"/>teſtants. <hi>And</hi> by theſe means ought we to have been induced to Repentance and the Reformation of our Manners. But Heaven and Earth are Wit<g ref="char:EOLhyphen"/>neſs, that we have not ſo much as known, <hi>or well conſidered,</hi> What it is to afflict our Souls and amend our Lives. Hence it is that the Judg<g ref="char:EOLhyphen"/>ments of God, which we ſo little regarded, though the Decree hath again and again brought forth ſo terribly, have been daily more and more in<g ref="char:EOLhyphen"/>creaſing. This we in <hi>France</hi> have been made to ſee by Experience, ſince we neglected the Admo<g ref="char:EOLhyphen"/>nitions which were given to us.</p>
+               <p>It is now <hi>twenty years and upwards,</hi> ſince I received a Letter, which admoniſhed Me of Our approaching Miſeries [in <hi>France,</hi>] and the Means to prevent them: Which were, to call to<g ref="char:EOLhyphen"/>gether the Governours of our Church, and acquaint them that they ſhould appoint a three days Faſt in that Church, which ſoever ſhould firſt be attach'd, [by Proceſs by our Enemies;] and they ſhould ſee the Effects thereof. But I neglected that Advice, not knowing whence it came. But abut <hi>ten years after,</hi> when I underſtood that, and ſaw the Event of much of that which was foretold, I acquainted thoſe Gentlemen with it: But they regarded not what I ſaid. Which made the Conſequence ſo ſad. There are now in <hi>England</hi> divers Miniſters, who were preſent when I ſhewed the Letter which was ſent me.</p>
+               <p>The ſame Advice which was given to me, was ſent alſo to Madam <hi>Turene,</hi> and to the Sieur <hi>Ruvigny,</hi> and to Mr. <hi>Gache</hi> Miniſter of <hi>Cha<g ref="char:EOLhyphen"/>renton,</hi> and to the Synod of <hi>Languedock.</hi> And when the Author, who ſent theſe Admonitions, underſtood that nothing was done thereupon, he wrote thus to me:</p>
+               <p>
+                  <hi>Very unhappy is that Ship, which being ſha<g ref="char:EOLhyphen"/>ken in a grievous Storm, the Mariners will not be rouſed even by a Child to pump out the
+<pb n="3" facs="tcp:171812:2"/>Water, which he ſees running in, till he be forced to cry out,</hi> Every one ſhift for himſelf. <hi>Wo to him who loves not our Lord</hi> Jeſus, <hi>and doth not carry the Divine Crucified One daily in his Heart.</hi>
+               </p>
+               <p>About <hi>Eight or Nine years ſince</hi> a ſudden ſtroke as of <hi>Thunder</hi> ſtruck me down in the Day-time (about Eight in the Morning) according to three ſeveral Warnings thereof given to me three years before. This was followed about ſix Weeks after by a Thunder in the Night: Whereof I had alſo been admoniſhed. Whereupon I called up all who were in Bed in my Houſe; and we went into the Room where we uſed to have Prayers, and there read the Scriptures. While that was doing it Thundered under My Feet, though the place was paved and upon a Rock. We all heard the Noiſe of Thunder <hi>(directly)</hi> under Me (who was at a diſtance from them, though all in the ſame Room) as loud as it uſed to be <hi>in the Air,</hi> and for ſome time. Yet we left not off our Reading the Scrip<g ref="char:EOLhyphen"/>tures. They were terrible Claps, and myſterious Preſages and Forerunners of the Calamities, which are ready to break out upon the Kingdoms of <hi>France</hi> and <hi>England.</hi> There are in <hi>England</hi> ſeveral per<g ref="char:EOLhyphen"/>ſons who were at my Houſe when theſe things hap<g ref="char:EOLhyphen"/>pened: They underſtood not the Myſtery of them: but I am able to prove what I here declare.</p>
+               <p>About <hi>five or ſix years ſince,</hi> when I was to leave the Countrey where I dwelt, the Author of theſe Admonitions, (who lived ſo Chriſtian a Life as none could blame, and whom God had favoured with ſuch extraordinary Graces, as few, I believe, in ſeveral Ages have heard the like,) depoſited with me a ſealed Paper; and told me the time when I ſhould open it. In the begitning were theſe words:</p>
+               <p>
+                  <hi>O King, a greater King than thee commands</hi> [or rules] <hi>thee: conſide<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the Reckoning thou art to make, ſooner than thou thinkeſt.</hi> And in the End,</p>
+               <p>
+                  <hi>O</hi> England, <hi>if thou make thy ſelf partaker in the Crime, thou ſhalt take part in the puniſhment.</hi>
+               </p>
+               <p>The Storm is violent, full of Horror and De<g ref="char:EOLhyphen"/>ſtruction: Endeavour to prevent it, that your Coun<g ref="char:EOLhyphen"/>trey may be a Countrey of Peace, a Fortunate Iſland, and a Garden of <hi>Eden:</hi> Which is the hearty deſire of</p>
+               <closer>
+                  <signed>
+                     <hi>Your moſt obedient Servant,</hi> Saint Jean.</signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>Poſtſcript.]</hi> You, who are Watchmen of <hi>Iſrael,</hi> this is the time to Watch and to Pray, this is the time to cry aloud and ſpare not: Sound the Trumpet in <hi>Sion;</hi> Awaken the ſleeping People: Be inſtant in ſeaſon, and out of ſeaſor, and ſpeak boldly to <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> that ſhe repent, that ſo Peace may be unto her, and not ſudden Deſtruction; for the Thunder has al<g ref="char:EOLhyphen"/>ready begun.</p>
+               </postscript>
+            </div>
+            <div type="prediction">
+               <pb n="4" facs="tcp:171812:3"/>
+               <head>
+                  <hi>Archbiſhop</hi> USHER<hi>'s</hi> PREDICTION.</head>
+               <p>THe Year before he died, being asked, <hi>Whether he did believe that Great Perſecution of the Church of God in</hi> England, Scotland <hi>and</hi> Ireland, (of which he had ſpoken with great confidence many years before in time of great Peace) <hi>to be paſt, or yet to come?</hi> He ſaid, <hi>That it was yet to come, and that he did as confidently expect it, as ever he had done;</hi> adding, <hi>That this ſad Perſecution would fall upon all the Proteſtant Churches of</hi> Europe. And when it was anſwered, It might be hoped that it might have been paſt in theſe Nations, by reaſon of the Devaſtation and Bloodſhed which had been in thé late Civil War: He replied with a very ſerious and ſtern Look,</p>
+               <p>
+                  <q>Fool not your ſelf with ſuch Hopes; for I tell you, All you have yet ſeen, hath been but the Beginning of Sorrows, to what is yet to come upon the Proteſtant Churches of Chriſt: Who will e're long fall under a Sharper Perſecution than ever yet has been upon them. And therefore look you be not found in the <hi>Outward Court,</hi> but a Worſhipper in the <hi>Temple</hi> before the Altar. For Chriſt will meaſure all thoſe who profeſs His Name, and call themſelves His People; and the <hi>Outward Worſhippers</hi> he will leave out to be trodden down by the <hi>Gentiles.</hi> The <hi>Outward Court</hi> is the <hi>Formal Chriſtian,</hi> whoſe Religion lies in performing the <hi>Out-ſide Duties</hi> of Chriſtianity, without having an <hi>Inward Life,</hi> and Power of Faith and Love Uniting them to Chriſt. And theſe God will leave to be trodden down and ſwept away by the <hi>Gentiles.</hi> But the <hi>Worſhippers within the Temple</hi> and <hi>before the Altar,</hi> are thoſe who do indeed worſhip God in Spirit and in Truth, whoſe Souls are made his Temples, and he is honoured and adored in the moſt inward Thoughts of their Hearts; and they ſacrifice their Luſts and vile Affections, yea, and their own Wills to him. And theſe God will hide in the Hollow of his Hand, and under the Shadow of his Wings. And this ſhall be one great <hi>Difference</hi> between this laſt and all the other preceding Perſecutions: For in the former, the moſt eminent and ſpiritual Miniſters and Chriſtians did generally ſuffer moſt, and were moſt violently fallen upon; but in this laſt Perſecution, theſe ſhall be preſerved by God as a Seed to partake of that <hi>Glory,</hi> which ſhall immediately follow and come upon the Church, as ſoon as this Storm ſhall be over: For as it ſhall be the <hi>Sharpeſt,</hi> ſo it ſhall be the <hi>Shorteſt</hi> Per<g ref="char:EOLhyphen"/>ſecution of them all; and ſhall only take away the groſs <hi>Hypocrites</hi> and <hi>Formal Profiſſors;</hi> but the <hi>true Spiritual Believers</hi> ſhall be preſerved till the Calamity be overpaſſed.</q>
+               </p>
+               <p>To this I think <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtinent <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Excellent Paſſage of his to the ſame Perſon, concerning <hi>San<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <q>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> underſtand what <hi>Sanctification</hi> and the <hi>New Creature</hi> are. It is no leſs than for a Man to be brought to an intire Reſignation of his Will to the Will of God; and to live in the offering up of his Soul continually in the flames of Love, as a whole Burnt-Offering to Chriſt. And how little are many of thoſe, who profeſs Chriſtianity, experimentally acquainted with this Work on their Souls!</q>
+               </p>
+               <p>Some <hi>Circumſtances</hi> of the Perſecution aforeſaid are mentioned in the Printed Paper of his Pre<g ref="char:EOLhyphen"/>dictions, to which I refer the Reader. But one there is not mentioned there, or ever by him expreſly, that I have heard of, <hi>viz.</hi> the <hi>Time.</hi> Of which yet it may be obſerved, that he ſeems in divers Diſcourſes to have intimated it ſo, as it muſt be now <hi>very near,</hi> by telling ſome Perſons, <hi>viz.</hi> ſuch as were ancient, that they ſhould not live to ſee it, and others that they might, that is by courſe of years, and among others Judge <hi>Hale,</hi> who, had he been now living, had been upwards of Eighty one. Beſides, if the ſame was ſignified by the Thunder under-ground mentioned by Mr. <hi>St. Jean,</hi> that ſeems to agree well with the <hi>Manner</hi> mentioned by the <hi>Archbiſhop,</hi> of a ſudden unexpected Maſſacre.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Harris</hi> in the <hi>Poultrey,</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
